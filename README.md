@@ -1,5 +1,6 @@
 # pic4markdown
-this is base to store some pictures which i have to use in markdown. 
+this is base to store some pictures which i have to use in markdown.
+
 ![mdcodedemo](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/mdcodeDEMO.png)
 ![mdcodedemo](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/mdcodeDEMO1.png)
 ![mdcodedemo](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/mdcodeDEMO2.png)
@@ -11,3 +12,11 @@ this is base to store some pictures which i have to use in markdown.
 ![markdown_tool](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/markdown_tool.png)
 ![caseOrderPublished](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseOrderPublished.png)
 ![caseDM_dataMinorThough](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_dataMinorThough.png)
+![caseDM_strategy](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_strategy.png)
+![caseDM_inDoordata1](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_inDoordata1.png)
+![caseDM_BIexample](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_BIexample.png)
+![caseDM_basicEgDecisionTree](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_basicEgDecisionTree.png)
+![caseDM_basicEgDecisionTree_res](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_basicEgDecisionTree_res.png)
+![caseDM_tenFamousAlgorithms](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_tenFamousAlgorithms.png)
+![caseDM_diff_CateNClas](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_diff_CateNClas.png)
+![caseDM_basicEgDecisionTree_show](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_basicEgDecisionTree_show.png)
