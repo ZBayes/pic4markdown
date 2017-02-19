@@ -10,3 +10,4 @@ this is base to store some pictures which i have to use in markdown.
 ![markdown_code2](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/markdown_code2.png)
 ![markdown_tool](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/markdown_tool.png)
 ![caseOrderPublished](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseOrderPublished.png)
+![caseDM_dataMinorThough](https://raw.githubusercontent.com/ZBayes/pic4markdown/master/caseDM_dataMinorThough.png)
